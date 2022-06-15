@@ -4,7 +4,7 @@ A tool for the Genesis FPS "Zero Tolerance". Currently saves textures from the g
 
 The game (and its cancelled sequel) is available for free on the developer's website: http://technopop.net/
 
-dependencies: PyQt
+dependencies: PIL
 
 # Notes on texture format
 
