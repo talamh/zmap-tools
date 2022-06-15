@@ -6,6 +6,9 @@ The game (and its cancelled sequel) is available for free on the developer's web
 
 dependencies: PIL
 
+This fork is command line only, rom file name is hardcoded as 'Zero Tolerance (USA, Europe).md'.
+
+
 # Notes on texture format
 
 Textures are 32-by-32 pixel uncompressed 4-bit-per-pixel bitmaps. Each byte stores the information for two pixels. The upper 4 bits store the information for the left pixel, and the 4 lower bits store the right pixel. Textures are stored in columns with each column being 2 pixels (1 byte) wide.
